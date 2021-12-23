@@ -16,7 +16,9 @@ A limited Arcaea Fanmade chart publication.It can be run on both iOS and Android
   To download this project,please use MEGA. The link is shown as follow:
   
   下载该项目需要用到MEGA，这个软件需要翻墙（百度云爬）
-  Android: https://mega.nz/file/G3AmgJrC#tLhOgUy4wawtlDGCyWr_8DzqkvNCzxExRKyJH-UIxGE
+  Arcaea JZDBL Lite 1.1:
+  Android: https://mega.nz/file/a3gTGYAJ#lmW3Bg8_KKFJUwfh-ydMVUSkFdcViuUKfOOkVZ57dUI
+  iOS:https://mega.nz/file/jmhiUCoS#D0riFmfEzJj7DlMdpew9Qhz1DNzoCSXMIpmlLwXJDIs
   
 # 2.License 声明
   This project is just a free sharing project,so anyone mustn't SELL it or do something for money.These fanmade charts can be played and recorded on social media,I don't care if you make a video for these charts.
@@ -34,3 +36,8 @@ A limited Arcaea Fanmade chart publication.It can be run on both iOS and Android
   Also, almost all the extra functions will be disabled,like Story Mode,World Mode and the anomalies.
   
   原版Arcaea的功能基本都被阉割了，仅剩下游玩部分，不能爬梯子看剧情过异象，小心闪退
+
+# 3.Warning 警告
+  This project shouldn't be shown to the official,NO LEAKING! 
+  If you are using iOS, don't use the partner Hikari.The Easy Clear label will crash the game and even ruin your savestate through a serious issue.Android users don't have this problem.
+  严禁将此项目告知官方！iOS用户不要使用光作为搭档游玩，否则闪退坏档！安卓用户没有问题。
