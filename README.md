@@ -16,9 +16,9 @@ A limited Arcaea Fanmade chart publication.It can be run on both iOS and Android
   To download this project,please use MEGA. The link is shown as follow:
   
   下载该项目需要用到MEGA，这个软件需要翻墙（百度云爬）
-  Arcaea JZDBL Lite 1.1:
-  Android: https://mega.nz/file/a3gTGYAJ#lmW3Bg8_KKFJUwfh-ydMVUSkFdcViuUKfOOkVZ57dUI
-  iOS:https://mega.nz/file/jmhiUCoS#D0riFmfEzJj7DlMdpew9Qhz1DNzoCSXMIpmlLwXJDIs
+  Arcaea JZDBL Lite 1.2:
+  Android: https://mega.nz/file/22pjSaJZ#pfXLRWiYB5rAaKVPeefIebyAlgEpzeVPaVTLofo3b0Y
+  iOS:https://mega.nz/file/vzwQmAKY#dEeEnZiVLz2kmI6N67HazHEEXeNB_tX7mkeJP35fqvo
   
 # 2.License 声明
   This project is just a free sharing project,so anyone mustn't SELL it or do something for money.These fanmade charts can be played and recorded on social media,I don't care if you make a video for these charts.
@@ -27,7 +27,7 @@ A limited Arcaea Fanmade chart publication.It can be run on both iOS and Android
 
   According to Lowiro,this project won't contain any official charts such as Aurgelmir.
   
-  因为616的条约，我们不会提供任何官谱游玩，比如Aurgelmir，拒绝白嫖，要玩就去买NS！（恼）
+  因为616的条约，我们不会提供任何官谱游玩，拒绝白嫖，要玩就去氪金！（恼）
   
   In the game,you can only play at offline mode.The account service is out of date and it may not work.
   
