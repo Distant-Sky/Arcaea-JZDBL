@@ -16,16 +16,16 @@ A limited Arcaea Fanmade chart publication.It can be run on both iOS and Android
   To download this project,please use MEGA. The link is shown as follow:
   
   下载该项目需要用到MEGA，这个软件需要翻墙（百度云爬）
-  Arcaea JZDBL Lite 1.2:
-  Android: https://mega.nz/file/22pjSaJZ#pfXLRWiYB5rAaKVPeefIebyAlgEpzeVPaVTLofo3b0Y
-  iOS:https://mega.nz/file/vzwQmAKY#dEeEnZiVLz2kmI6N67HazHEEXeNB_tX7mkeJP35fqvo
+  Arcaea JZDBL Lite 1.3:
+  Android: https://mega.nz/file/OnplGSqC#ZtBZVKH7bqHofTFcDYzW7aQnqQ2kBY9JOlQBexQwSag
+  iOS:https://mega.nz/file/u65EhLaD#txaQ0lse9Qw9riXdmHxbqNJb3QjboSmaItjay0YOEBY
   
 # 2.License 声明
   This project is just a free sharing project,so anyone mustn't SELL it or do something for money.These fanmade charts can be played and recorded on social media,I don't care if you make a video for these charts.
   
   这个项目是非盈利的分享项目，禁止任何人有偿传播或用于商业用途。这些自制谱你们可以正常游玩或者录制手元，我不会追究责任。
 
-  According to Lowiro,this project won't contain any official charts such as Aurgelmir.
+  According to Lowiro,this project won't contain any official charts.
   
   因为616的条约，我们不会提供任何官谱游玩，拒绝白嫖，要玩就去氪金！（恼）
   
